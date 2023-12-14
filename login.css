@@ -1,0 +1,30 @@
+body {
+    background-image: url('./b.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  form{
+  border:2px solid white;
+  padding: 80px;
+  width:400px;
+  margin-left: 400px;
+  margin-right: 400px;
+  background-color:transparent;
+  opacity:3;
+  }
+  
+  lable{
+    text-align:left;
+    width: 80%;
+    margin-top: 10px;
+    color:rgb(31, 3, 71);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+    
+}
+
+
+a{
+  color:rgb(131, 9, 131);
+  
+} 

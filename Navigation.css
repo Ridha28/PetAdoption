@@ -1,0 +1,27 @@
+nav{
+    background-color: black;
+    height:auto;
+    width:auto;
+    margin-top: -20px; 
+}
+ul{
+    list-style-type: none;
+    /*padding-left: 1100px;*/
+}
+li{
+    display: inline-block;
+    padding: 30px;
+}
+/*li:hover:not(.active){
+    background-color: rgb(166, 206, 123);
+}*/
+li.hover{
+    background-color: rgb(166, 206, 123);
+}
+/*.active{
+    background-color: green;
+}*/
+.link{
+    color: white;
+    text-decoration: none;
+}
